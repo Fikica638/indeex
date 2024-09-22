@@ -1,0 +1,14 @@
+body {
+    background-image: url("https://images.pexels.com/photos/956981/milky-way-starry-sky-night-sky-star-956981.jpeg") ;
+    font-family: 'Gabarito';
+    background-size: cover;
+}
+#einz {
+height: 500px;
+width: 330px;
+background-color: aliceblue;
+border-radius: 10px;
+border: 3px wheat;
+color: black;
+font-size: 20px;
+}
